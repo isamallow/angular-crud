@@ -5,3 +5,13 @@
 .button2 {
     background-color: #ff0000;
 }
+
+form {
+    display: flex;
+    flex-direction: column;
+}
+
+button {
+    margin-right: 15px;
+    margin-top: 25px;
+}
