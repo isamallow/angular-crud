@@ -22,6 +22,7 @@ import { MatButtonModule } from '@angular/material/button';
 import { MatSnackBarModule } from '@angular/material/snack-bar';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule } from '@angular/forms';
+import { ProductReadComponent } from './components/product/product-read/product-read.component';
 
 
 @NgModule({
@@ -33,7 +34,8 @@ import { FormsModule } from '@angular/forms';
     HomeComponent,
     ProductCrudComponent,
     RedDirective,
-    ProductCreateComponent
+    ProductCreateComponent,
+    ProductReadComponent
   ],
   imports: [
     BrowserModule,
