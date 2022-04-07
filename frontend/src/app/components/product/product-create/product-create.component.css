@@ -1,9 +1,11 @@
 .button1 {
-    background-color: #3cb4c4 !important;
+    background-color: #2bb179 !important;
+    color: #fff;
 }
 
 .button2 {
-    background-color: #ff0000;
+    background-color: #e23143;
+    color: #fff;
 }
 
 form {
