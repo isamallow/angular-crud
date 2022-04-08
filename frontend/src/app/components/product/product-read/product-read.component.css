@@ -3,13 +3,13 @@ table {
 }
 
 .edit {
-    margin-right: 10px;
+    margin-right: 5px;
 }
 
 .edit > i {
-    color: #d9cd26;
+    color: #eee01b;
 }
 
 .delete > i {
-    color: #e35e6b;
+    color: #da2335;
 }

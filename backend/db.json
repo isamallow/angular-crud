@@ -1,24 +1,24 @@
 {
-
-    "products": [{
-        "id": 1,
-        "name": "Iphone 13",
-        "price": 3999.00
+  "products": [
+    {
+      "id": 1,
+      "name": "Iphone 13",
+      "price": 3999
     },
     {
-        "id": 2,
-        "name": "MacBook Pro",
-        "price": 7199.00
+      "id": 2,
+      "name": "MacBook Pro",
+      "price": 7199
     },
     {
-        "id": 3,
-        "name": "AirPood",
-        "price": 2296.00
+      "id": 3,
+      "name": "AirPood",
+      "price": 2296
     },
-    {   
-        "id": 4,
-        "name": "iPad",
-        "price": 3848.00
-    }]
-
+    {
+      "id": 4,
+      "name": "iPad",
+      "price": 3848
+    }
+  ]
 }
