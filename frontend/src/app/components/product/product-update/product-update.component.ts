@@ -9,7 +9,8 @@ import { ProductService } from "../product.service";
   styleUrls: ["./product-update.component.css"],
 })
 export class ProductUpdateComponent implements OnInit {
-  product!: Product;
+
+  product: Product | any
 
   constructor(
     private productService: ProductService,
