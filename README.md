@@ -4,7 +4,7 @@
 <br>
 
 > ## Sobre o Projeto
-> O Angular CRUD é uma aplicação que cadastra produtos. O projeto foi no curso ministrado pela [Cod3r](https://www.cod3r.com.br/). Foi utilizado o Json-Server como back-end e Angular como front-end.
+> O Angular CRUD é aplicação de cadastro com criação, leitura, atualização e exclusão de produto. O projeto foi no curso desenvolvido no curso da [Cod3r](https://www.cod3r.com.br/). Foi utilizado o Json-Server como back-end e Angular como front-end.
 
 <br>
 <br>
