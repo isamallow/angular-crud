@@ -1,15 +1,15 @@
 <h1 align="center">Angular CRUD</h1>
 
-<br>
+<p align="center">
+<img src="https://i.imgur.com/hko88pw.png" width="600" />
+</p>
+
+> ## 💻 Sobre o Projeto
+> O Angular CRUD é aplicação de cadastro com criação, leitura, atualização e exclusão de produto. O projeto foi desenvolvido no curso da [Cod3r](https://www.cod3r.com.br/). Utilizou-se o Json-Server como back-end e o framework Angular como front-end.
+
 <br>
 
-> ## Sobre o Projeto
-> O Angular CRUD é aplicação de cadastro com criação, leitura, atualização e exclusão de produto. O projeto foi no curso desenvolvido no curso da [Cod3r](https://www.cod3r.com.br/). Foi utilizado o Json-Server como back-end e Angular como front-end.
-
-<br>
-<br>
-
-> ## Tecnologias Utilizadas
+> ## 🚀 Tecnologias Utilizadas
 
 <p>
    <img align="left" alt="html" src="https://img.shields.io/badge/HTML5-F24F00?style=for-the-badge&logo=html5&logoColor=white" />
@@ -22,7 +22,7 @@
 <br>
 <br>
 
-> ## Instalação
+> ## 💿 Instalação
  * `git clone`
  * `npm install`
  
