@@ -1,7 +1,7 @@
 <h1 align="center">Angular CRUD</h1>
 
 <p align="center">
-<img src="https://i.imgur.com/hko88pw.png" width="600" />
+<img src="https://i.imgur.com/YfFeNld.png" width="700" />
 </p>
 
 > ## 💻 Sobre o Projeto
